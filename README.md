@@ -57,7 +57,7 @@ CREATE DATABASE StudentDB;
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+git clone https://github.com/TRU2110/Zest_Assignment_task.git
 ```
 
 
