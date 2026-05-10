@@ -27,7 +27,7 @@ A secure ASP.NET Core Web API project for managing student records using CRUD op
 
 # Project Structure
 ```text
-|-
+
 StudentAPI
 │
 |-- Controllers
